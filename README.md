@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alder Amu
 
-## About Me
+## 📌 About Me
 
 I am a result driven Data Analyst with hands on expertise in data cleaning, analysis, visualization, automation, and AI powered analytics. Skilled in transforming raw datasets into actionable insights that improve decision making and operational efficiency. Experienced in **Power BI, SQL, Excel, and Gen AI tools **, with a proven ability to build predictive dashboards, automate workflows, and communicate insights clearly to technical and non technical stakeholders. Strong analytical thinker with a focus on accuracy, process optimization, and delivering measurable business value.
 
